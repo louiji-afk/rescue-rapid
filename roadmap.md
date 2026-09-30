@@ -1,0 +1,9 @@
+- [x] Apply the soft clinical palette and gentle heartbeat across user and admin views.
+- [x] Verify SOS, diagnostics, and alert clearing remain visually and functionally intact on desktop and mobile.
+- [x] Add the active-call respiration pacer and bilingual guidance.
+- [x] Show operator connection only when an admin opens the active incident.
+- [x] Send and clear per-incident one-tap medical tags; verify the full flow.
+- [x] Prevent preview updates from mismatching the shared rescue provider and blanking the page.
+- [x] Remove the theme switch and permanently use the hospital white-and-soft-blue palette on both views.
+- [x] Replace VPN detection and blocker with a permanent amber instruction; remove the admin VPN override.
+- [x] Add simulated latency indicators, tactile gateway and triage interactions, and three-second incoming ticket ripples.
